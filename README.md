@@ -1,4 +1,9 @@
-# 🙋‍♂️ Meu nome é Guilherme sou Desenvolvedor Front-end 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=410287&%20height=120&section=header"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8c00&size=35&center=true&vCenter=true&width=1000&lines=Prazer,+Meu+Nome+é+Guilherme+,Tenho+20+anos+e+sou+Desenvolvedor+Front-End+:%29)](https://git.io/typing-svg)
+
+
 <div align="center">
   <a href="https://github.com/guilhermesouza48">
 <div style="display: inline_block" align="center"><br>
@@ -20,3 +25,60 @@
   ![Snake animation](https://github.com/guilhermesouza48/guilhermesouza48/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
+
+
+          
+
+
+<div style="display:flex;  width:200px; justify-content:space-between;">
+
+
+<a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="https://logospng.org/download/uol/logo-uol-icon-1024.png" height="75"  align='right' /></a>
+           <span><h2>Bolsista - UOL Compass (11/2022)</h2>
+          <h2 justify-content="center">Atividades Principais</h2>
+- :pushpin:Front Development em AWS Cloud Context, React, Javascript, Events <br>              
+- :pushpin:Rendering Lists              
+- :pushpin:Components               
+- :pushpin:Hooks
+- :pushpin:Redux          
+- :pushpin:AWS Amplify          
+          <a href="https://sistemametha.com.br" target="_blank"><img src="https://sistemametha.com.br/wp-content/uploads/2022/08/tRANSPARENTE.png" height="75"  align='right' /></a>
+-  <span><h2> Estagio Desenvolvedor Front-End e Suporte ERP - Sistema Metha (02/2022 - 01/2023)</h2>
+          <h2 justify-content="center">Atividades Principais</h2>
+- :pushpin:Help Desk Junior
+- :pushpin:Suporte de TI
+- :pushpin:React-Native EXPO
+- :pushpin:SQLserver
+- :pushpin:Wordpress
+- :pushpin:GIT
+- :pushpin:Ferramentas office
+</span>
+</div>
+    <a href="https://www.cps.sp.gov.br/tag/fatec-registro/" target="_blank" rel="noopener noreferrer" ><img src="FATEC.png" height="145"  align='right' /></a>
+<h2> FATEC - Desenvolvimento de Software Multiplataforma (Cursando) <h2>
+          <br>
+          <br>
+          <br>
+
+
+
+
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesouza48&layout=compact&langs_count=7&theme=tokyonight"/><br>
+  
+  
+<br>
+
+
+
+
+</a>
+
+  <h2>📱 Contacts</h2>
+<div align="center">
+   <a href="https://www.linkedin.com/in/rian-yuri-b36563158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+</div>
+</div>
+
