@@ -8,6 +8,18 @@
   <a href="https://github.com/guilhermesouza48">
 <div style="display: inline_block" align="center">
 <div style="display:flex;  width:200px; justify-content:space-between;">
+
+<div align="center"> 
+
+  <a href="https://www.instagram.com/guilherme_jesus48/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.facebook.com/guilhermesouza.jesus.9/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:guilhermesouzacrs@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-souza-689b05209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/guilhermesouza48/guilhermesouza48/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
 <p>:computer: Habilidades</p>
 <br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,17 +29,9 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
+  
  
-<div align="center"> 
-  <a href="https://www.instagram.com/guilherme_jesus48/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.facebook.com/guilhermesouza.jesus.9/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:guilhermesouzacrs@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-souza-689b05209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/guilhermesouza48/guilhermesouza48/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
 
 
 
@@ -59,7 +63,7 @@
 - :pushpin:Ferramentas office
 </span>
 </div>
-    <a href="https://www.cps.sp.gov.br/tag/fatec-registro/" target="_blank" rel="noopener noreferrer" ><img src="FATEC.png" height="145"  align='right' /></a>
+    <a href="https://www.cps.sp.gov.br/tag/fatec-registro/" target="_blank" rel="noopener noreferrer" ><img src="https://passarvestibular.com.br/wp-content/uploads/2019/03/fatec.png" height="120"  align='right' /></a>
 <h2> FATEC - Desenvolvimento de Software Multiplataforma (Cursando) <h2>
           <br>
           <br>
