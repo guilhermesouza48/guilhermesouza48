@@ -20,32 +20,12 @@
  
 </div>
 
-<p>:computer: Habilidades</p>
-<br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div>
-  
-  
- 
-
-
-
-
-
-          
-
-
 <div style="display:flex;  width:200px; justify-content:space-between;">
 
 
 <a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="https://logospng.org/download/uol/logo-uol-icon-1024.png" height="50"  align='right' /></a>
            <span><h2>Bolsista - UOL Compass (11/2022)</h2>
-          <h2 justify-content="center">Atividades Principais</h2>
+          <h4 justify-content="center">Atividades Principais</h4>
 - :pushpin:Front Development em AWS Cloud Context, React, Javascript, Events <br>              
 - :pushpin:Rendering Lists              
 - :pushpin:Components               
@@ -54,7 +34,7 @@
 - :pushpin:AWS Amplify          
           <a href="https://sistemametha.com.br" target="_blank"><img src="https://sistemametha.com.br/wp-content/uploads/2022/08/tRANSPARENTE.png" height="50"  align='right' /></a>
 -  <span><h2> Estagio Desenvolvedor Front-End e Suporte ERP - Sistema Metha (02/2022 - 01/2023)</h2>
-          <h2 justify-content="center">Atividades Principais</h2>
+          <h4 justify-content="center">Atividades Principais</h4>
 - :pushpin:Help Desk Junior
 - :pushpin:Suporte de TI
 - :pushpin:React-Native EXPO
@@ -65,8 +45,23 @@
 </span>
 </div>
     <a href="https://www.cps.sp.gov.br/tag/fatec-registro/" target="_blank" rel="noopener noreferrer" ><img src="https://passarvestibular.com.br/wp-content/uploads/2019/03/fatec.png" height="50"  align='right' /></a>
-<h2> FATEC - Desenvolvimento de Software Multiplataforma (Cursando) <h2>
+<h3> FATEC - Desenvolvimento de Software Multiplataforma (Cursando) <h3>
+
           <br>
+
+          <p>:computer: Habilidades</p>
+<br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+<img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+</div>
+
           <br>
-          <br>
+
+
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesouza48&layout=compact&langs_count=7&theme=tokyonight"/><br>
