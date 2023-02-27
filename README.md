@@ -59,9 +59,10 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img align="center" alt="REDUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+<br>
 </div>
 
-          <br>
+          
 
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesouza48&layout=compact&langs_count=7&theme=tokyonight"/><br>
