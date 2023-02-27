@@ -42,7 +42,7 @@
 <div style="display:flex;  width:200px; justify-content:space-between;">
 
 
-<a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="https://logospng.org/download/uol/logo-uol-icon-1024.png" height="75"  align='right' /></a>
+<a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="https://logospng.org/download/uol/logo-uol-icon-1024.png" height="50"  align='right' /></a>
            <span><h2>Bolsista - UOL Compass (11/2022)</h2>
           <h2 justify-content="center">Atividades Principais</h2>
 - :pushpin:Front Development em AWS Cloud Context, React, Javascript, Events <br>              
@@ -51,7 +51,7 @@
 - :pushpin:Hooks
 - :pushpin:Redux          
 - :pushpin:AWS Amplify          
-          <a href="https://sistemametha.com.br" target="_blank"><img src="https://sistemametha.com.br/wp-content/uploads/2022/08/tRANSPARENTE.png" height="75"  align='right' /></a>
+          <a href="https://sistemametha.com.br" target="_blank"><img src="https://sistemametha.com.br/wp-content/uploads/2022/08/tRANSPARENTE.png" height="50"  align='right' /></a>
 -  <span><h2> Estagio Desenvolvedor Front-End e Suporte ERP - Sistema Metha (02/2022 - 01/2023)</h2>
           <h2 justify-content="center">Atividades Principais</h2>
 - :pushpin:Help Desk Junior
