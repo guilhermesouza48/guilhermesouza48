@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=410287&%20height=120&section=header"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8c00&size=35&center=true&vCenter=true&width=1000&lines=Prazer,+Meu+Nome+é+Guilherme+,Tenho+20+anos+e+sou+Desenvolvedor+Front-End+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=410287&size=35&center=true&vCenter=true&width=1000&lines=Prazer+,meu+Nome+é+Guilherme+,Tenho+20+anos+e+sou+Desenvolvedor+Front-End+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -76,9 +76,9 @@
 
 </a>
 
-  <h2>📱 Contacts</h2>
+  <h2>LinkedIn</h2>
 <div align="center">
-   <a href="https://www.linkedin.com/in/rian-yuri-b36563158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+   <a href="https://www.linkedin.com/in/guilherme-souza-de-jesus-689b05209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 </div>
 </div>
 
