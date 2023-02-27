@@ -47,8 +47,9 @@
     <a href="https://www.cps.sp.gov.br/tag/fatec-registro/" target="_blank" rel="noopener noreferrer" ><img src="https://passarvestibular.com.br/wp-content/uploads/2019/03/fatec.png" height="50"  align='right' /></a>
 <h3> FATEC - Desenvolvimento de Software Multiplataforma (Cursando) <h3>
 
-          <br>
-
+          
+<div>
+<br>
           <p>:computer: Habilidades</p>
 <br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
