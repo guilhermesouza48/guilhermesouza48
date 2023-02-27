@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=410287&%20height=120&section=header"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=410287&size=35&center=true&vCenter=true&width=1000&lines=Prazer+,meu+Nome+é+Guilherme+,Tenho+20+anos+e+sou+Desenvolvedor+Front-End+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=410287&size=35&center=true&vCenter=true&width=1000&lines=Prazer,+meu nome é+Guilherme+,Tenho+20+anos+e+sou+Desenvolvedor+Front-End+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
