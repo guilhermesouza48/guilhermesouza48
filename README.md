@@ -63,42 +63,9 @@
 - :pushpin:Ferramentas office
 </span>
 </div>
-    <a href="https://www.cps.sp.gov.br/tag/fatec-registro/" target="_blank" rel="noopener noreferrer" ><img src="https://passarvestibular.com.br/wp-content/uploads/2019/03/fatec.png" height="120"  align='right' /></a>
+    <a href="https://www.cps.sp.gov.br/tag/fatec-registro/" target="_blank" rel="noopener noreferrer" ><img src="https://passarvestibular.com.br/wp-content/uploads/2019/03/fatec.png" height="50"  align='right' /></a>
 <h2> FATEC - Desenvolvimento de Software Multiplataforma (Cursando) <h2>
           <br>
           <br>
           <br>
-
-
-
-
-  
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesouza48&layout=compact&langs_count=7&theme=tokyonight"/><br>
-  
-  
-<br>
-
-
-
-
-</a>
-
-  <h2>LinkedIn</h2>
-<div align="center">
-   <a href="https://www.linkedin.com/in/guilherme-souza-de-jesus-689b05209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-</div>
-</div>
-
-
-
-
-
-          
-
-
-
-
-
-
-
-
