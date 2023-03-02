@@ -6,15 +6,15 @@
 
 <div align="center">
   <a href="https://github.com/guilhermesouza48">
-<div style="display: inline_block" align="center">
-<div style="display:flex;  width:200px; justify-content:space-between;">
+   <div style="display: inline_block" align="center">
+    <div style="display:flex;  width:200px; justify-content:space-between;">
 
-<div align="center"> 
+      <div align="center"> 
 
-  <a href="https://www.instagram.com/guilherme_jesus48/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.facebook.com/guilhermesouza.jesus.9/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:guilhermesouzacrs@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-souza-689b05209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        <a href="https://www.instagram.com/guilherme_jesus48/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-     badge&logo=instagram&logoColor=white" target="_blank"></a>
+        <a href="https://www.facebook.com/guilhermesouza.jesus.9/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+         <a href = "mailto:guilhermesouzacrs@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+         <a href="https://www.linkedin.com/in/guilherme-souza-689b05209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/guilhermesouza48/guilhermesouza48/blob/output/github-contribution-grid-snake.svg)
  
@@ -23,9 +23,9 @@
 <div style="display:flex;  width:200px; justify-content:space-between;">
 
 
-<a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="https://logospng.org/download/uol/logo-uol-icon-1024.png" height="50"  align='right' /></a>
+    <a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="https://logospng.org/download/uol/logo-uol-icon-1024.png" height="50"    align='right' /></a>
            <span><h2>Bolsista - UOL Compass (11/2022)</h2>
-          <h4 justify-content="center">Atividades Principais</h4>
+            <h4 justify-content="center">Atividades Principais</h4>
 - :pushpin:Front Development em AWS Cloud Context, React, Javascript, Events <br>              
 - :pushpin:Rendering Lists              
 - :pushpin:Components               
@@ -53,8 +53,7 @@
           <p>:computer: Habilidades</p>
 <br>
 <br>
-<br>
-<br>
+
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -64,12 +63,14 @@
 <img align="center" alt="REDUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 <br>
 <br>
-<br>
-<br>
 <a href="CV_2023.pdf" target="iframe_download">Clique para baixar meu CV</a>
+<br>
+<br>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesouza48&layout=compact&langs_count=7&theme=tokyonight"/>
+<br>
 </div>
 
           
 
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesouza48&layout=compact&langs_count=7&theme=tokyonight"/><br>
+  
