@@ -23,7 +23,7 @@
 <div style="display:flex;  width:200px; justify-content:space-between;">
 
 <a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="https://logospng.org/download/uol/logo-uol-icon-1024.png" height="50"    align='right' /></a>
-           <span><h2>Bolsista - UOL Compass (11/2022)</h2>
+           <span><h2>Bolsista - UOL Compass (11/2022 - 04/2023)</h2>
             <h4 justify-content="center">Atividades Principais</h4>
 - :pushpin:Front Development em AWS Cloud Context, React, Javascript, Events <br>              
 - :pushpin:Rendering Lists              
