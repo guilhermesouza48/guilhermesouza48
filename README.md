@@ -44,7 +44,7 @@
 </span>
 </div>
 <div align="center">
-    <a href="https://www.cps.sp.gov.br/tag/fatec-franca/" target="_blank" rel="noopener noreferrer" ><img src="https://fatecararaquara.edu.br/wp-content/uploads/2022/11/logo_cps_versao_cor.png" height="50"  align='right' /></a>
+    <span></span><a href="https://www.cps.sp.gov.br/tag/fatec-franca/" target="_blank" rel="noopener noreferrer" ><img src="https://fatecararaquara.edu.br/wp-content/uploads/2022/11/logo_cps_versao_cor.png" height="50"  align='right' /></a>
 <h3> FATEC - Desenvolvimento de Software Multiplataforma <h3>
 </div>
           
